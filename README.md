@@ -1,2 +1,2 @@
 # python-snippets
-Python assignments and snippets
+Python documentations/tutorials, assignments and snippets
